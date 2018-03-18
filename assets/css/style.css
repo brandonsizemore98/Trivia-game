@@ -1,0 +1,24 @@
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: url(../images/cuadros.png);
+}
+
+.nav{
+    background-color: white;
+    height: 50px;
+}
+
+.jumbotron{
+    background-color: white;
+    margin-top: 200px;
+}
+
+
+.content{
+background-color: white;
+height: 500px;
+margin-top: 200px;
+margin-bottom: 200px;
+}

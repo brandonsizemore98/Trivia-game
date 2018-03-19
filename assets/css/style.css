@@ -22,3 +22,107 @@ height: 500px;
 margin-top: 200px;
 margin-bottom: 200px;
 }
+
+
+/* Game page CSS */
+
+.container {
+    width: auto;
+    height: auto;
+}
+
+.main-content {
+   height: 500px;
+    margin: 10px auto;
+}
+
+.stats {
+    margin: 1px;
+    border: 2px solid black;
+    background-color: white;
+    text-align: center;
+}
+
+.stats h2 {
+    border-bottom: 2px solid blue;
+}
+
+.current-stats {
+    margin: 5px auto;
+    border: 2px solid green;
+    height: 100px;
+}
+
+.game {
+margin: 1px;
+border: 2px solid black;
+background-color: lightblue;
+text-align: center;
+}
+
+.game h2 {
+font-size: 36px;
+color: teal;
+}
+
+.questions {
+    border: 2px solid purple;
+    margin: 5px 3px;
+    height: 400px;
+
+}
+
+.question {
+    margin: 5px 3px;
+    border: 1px solid black;
+}
+
+h3 {
+    border-bottom: 2px solid blue;
+}
+
+
+.game-questions {
+    height: 500px;
+}
+
+.side-bar {
+    border: 2px solid black;
+    background-color: white;
+   
+
+}
+
+.rank {
+    border: 2px solid black;
+    margin: 2px;
+    text-align: center;
+}
+
+.pGame {
+    border: 2px solid black;
+    margin: 2px;
+}
+
+.text-box {
+    border: 2px solid black;
+    width: 50%;
+    text-align: center;
+    margin: 10px auto;
+    background-color: white;
+}
+
+.footer {
+    border-top: 2px solid red;
+    width: 100%;
+    background-color: #cccccc;;
+    margin:10px 5px;
+    bottom: 0px;
+    height: 70px;
+    text-align: center;
+
+}
+
+.footer p {
+    margin: 25px auto;
+}

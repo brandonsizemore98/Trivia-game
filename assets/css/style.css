@@ -189,6 +189,11 @@ color: teal;
     margin-right: 5px;
 }
 
+.panel-heading {
+    color: teal;
+    font-size: 32px;
+}
+
 .panel-body
 {
     overflow-y: scroll;
